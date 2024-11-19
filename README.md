@@ -25,8 +25,8 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### :zap: Actividad reciente
-<!-- RECENT_ACTIVITY:start-->
-<!-- RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### Contacto
 
