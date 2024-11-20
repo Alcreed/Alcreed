@@ -24,18 +24,6 @@
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Alcreed/Alcreed](https://github.com/Alcreed/Alcreed)<br>
-2. ⬆️ Pushed 1 commit(s) to [Alcreed/Alcreed](https://github.com/Alcreed/Alcreed)<br>
-3. ⬆️ Pushed 1 commit(s) to [Alcreed/Alcreed](https://github.com/Alcreed/Alcreed)<br>
-4. ⬆️ Pushed 1 commit(s) to [Alcreed/Alcreed](https://github.com/Alcreed/Alcreed)<br>
-5. ⬆️ Pushed 1 commit(s) to [Alcreed/Alcreed](https://github.com/Alcreed/Alcreed)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 20th, 2024, 1:00:14 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
